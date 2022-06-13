@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸 𝙱𝙾𝚃 𝙱𝚈 𝙰𝚂𝙷𝙸𝙽𝙸
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄']
-global.premium = ['716022100']
-global.ownernomer = '716022100'
-global.ownername = '𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄'
-global.botname = '🧸𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄 𝙱𝙾𝚃🧸'
-global.footer = '©NexusNwInc.'
+global.owner = ['𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸']
+global.premium = ['447451218571']
+global.ownernomer = '447451218571'
+global.ownername = '𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸'
+global.botname = '🧸𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸 𝙱𝙾𝚃🧸'
+global.footer = '𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸👻.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
+global.packname = '𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸'
 global.author = '𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
