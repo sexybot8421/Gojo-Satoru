@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸']
-global.premium = ['447451218571']
-global.ownernomer = '447451218571'
-global.ownername = '𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸'
-global.botname = '🧸𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸 𝙱𝙾𝚃🧸'
-global.footer = '𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸👻.'
+global.owner = ['𝙼𝚁.𝚂𝙸𝙻𝙴𝙽']
+global.premium = ['94775978468']
+global.ownernomer = '94775978468'
+global.ownername = '𝙼𝚁.𝚂𝙸𝙻𝙴𝙽'
+global.botname = '🧸𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃🧸'
+global.footer = '𝙼𝚁.𝚂𝙸𝙻𝙴𝙽.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸'
-global.author = '𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄'
+global.packname = '𝙳𝙰𝚁𝙺'
+global.author = '𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
